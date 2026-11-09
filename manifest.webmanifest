@@ -1,0 +1,18 @@
+{
+  "name": "Fantrock Eventi",
+  "short_name": "Fantrock",
+  "description": "Calendario condiviso Fantrock",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15151b",
+  "theme_color": "#25252d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
